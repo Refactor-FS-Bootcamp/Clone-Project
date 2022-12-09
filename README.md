@@ -1,3 +1,5 @@
+## NOTE : Please use your own custom logo and brand title for the project.
+
 # Build a website clone with the following specifications:
 
 1. The website should allow users to browse and purchase a wide range of fresh and high-quality meat, seafood, and poultry products.
